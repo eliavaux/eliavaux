@@ -2,7 +2,7 @@
 
 - 🎓 Studying applied computer science
 - 👨‍💻 Writing in Rust
-- 🪐 Creating [**video projects**](https://www.youtube.com/channel/@elias-) from time to time
+- 🪐 Creating [**video projects**](https://youtube.com/@elias-) from time to time
 - 🪴 Fascinated by experimental mathematics and poetry 
 
 ### My Projects 🔭
