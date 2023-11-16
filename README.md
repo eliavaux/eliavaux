@@ -3,7 +3,7 @@
 - 🎓 Studying applied computer science
 - 👨‍💻 Writing in Rust
 - 🪐 Creating [**video projects**](https://youtube.com/@elias-) from time to time
-- 🪴 Fascinated by experimental mathematics and poetry 
+- 🪴 Fascinated by linguistics and harmonic analysis  
 
 ### My Projects 🔭
 - [**Linear algebra project**](https://github.com/eliavaux/putnam-1992) from a question of the 1992 [Putnam Competition](https://kskedlaya.org/putnam-archive/1992.pdf)
