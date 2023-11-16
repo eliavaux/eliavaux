@@ -6,6 +6,8 @@
 - 🪴 Fascinated by linguistics and harmonic analysis  
 
 ### My Projects 🔭
-- [**Linear algebra project**](https://github.com/eliavaux/putnam-1992) from a question of the 1992 [Putnam Competition](https://kskedlaya.org/putnam-archive/1992.pdf)
-- A simple [**Neural Network**](https://github.com/eliavaux/machine-learning/) built from scratch training on the MNIST database
+
+- A [**Heuristic approach**](https://github.com/eliavaux/putnam-1992) for question A-6 of the 1992 [Putnam Competition](https://en.wikipedia.org/wiki/William_Lowell_Putnam_Mathematical_Competition) with visualizations
 - Helped working on [**ForceSkip**](https://github.com/ppauel/youtube-forceskip), an Ad Blocker for Safari
+- Simple [**Neural Network**](https://github.com/eliavaux/machine-learning/) built from scratch training on the MNIST database
+- [**Connect n,m,k**](https://github.com/eliavaux/machine-learning), a Connect Four game with dynamic board size and win condition
