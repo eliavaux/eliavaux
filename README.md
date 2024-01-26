@@ -3,7 +3,7 @@
 - 🎓 Studying applied computer science
 - 👨‍💻 Writing in Rust
 - 🪐 Creating [**video projects**](https://youtube.com/@elias-) from time to time
-- 🪴 Fascinated by linguistics and harmonic analysis  
+- 🪴 In love with botany  
 
 ### My Projects 🔭
 
