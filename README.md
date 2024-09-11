@@ -1,6 +1,6 @@
 ### About Me 👋
 
-- 🎓 Studying applied computer science
+- 🎓 Studying computer science
 - 👨‍💻 Mainly writing in Rust and Swift
 - 🪐 Creating [**video projects**](https://youtube.com/@elias-) from time to time
 - 🐈 Certified cat lover  
