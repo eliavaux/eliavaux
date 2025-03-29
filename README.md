@@ -2,7 +2,6 @@
 
 - 🎓 Studying computer science
 - 👨‍💻 Mainly writing in Rust & Swift
-- 🪐 Creating [**video projects**](https://youtube.com/@elias-) from time to time
 - 🐈 Certified cat lover  
 
 ### My Projects 🔭
